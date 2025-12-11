@@ -1,0 +1,18 @@
+[
+  {
+    "id": "496a388e-7907-409e-8fe6-cc7bdf8228e6",
+    "topText": "ctx.strokeText(\"TEST\", 400, 400);",
+    "bottomText": "ctx.strokeText(\"TEST\", 400, 400);",
+    "originalImage": "meme-1765467514854-19941812.jpg",
+    "memeImage": "meme-1765467514871-li6shqngd.png",
+    "createdAt": "2025-12-11T15:38:35.101Z"
+  },
+  {
+    "id": "ffa763b4-29fe-412e-92ff-f41bb2a0f7a8",
+    "topText": "АХХАХАХАХАХАХХА",
+    "bottomText": "АХХАХАХАХАХАХХА",
+    "originalImage": "meme-1765467568236-831595292.jpg",
+    "memeImage": "meme-1765467568304-edpkw9z32.png",
+    "createdAt": "2025-12-11T15:39:28.476Z"
+  }
+]
